@@ -26,7 +26,7 @@ The training accuracy was 98.63% whike that of validation was 95.48%.
 Testing of the model was done on 4585 images. The accuracy was found to be 95.42%.
 The ROC-AUC score was also calclulated and for each category of disease the AUC score was greater than 0.95.
 
-![](Images/CM.PNG)
+![](Images/CM_small.PNG)
 ![](Images/ROC.png)
 
 Confusion Matrix is in the 'Images' folder.
