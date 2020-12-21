@@ -28,5 +28,3 @@ The ROC-AUC score was also calclulated and for each category of disease the AUC 
 
 ![](Images/CM_small.PNG)
 ![](Images/ROC.png)
-
-Confusion Matrix is in the 'Images' folder.
