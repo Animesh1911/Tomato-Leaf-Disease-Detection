@@ -1,3 +1,9 @@
 # Tomato-Leaf-Disease-Detection
 A simple CNN model to detect and classify ten different types of tomato leaf disease.
-Dataset taken from Kaggle. Link - https://www.kaggle.com/noulam/tomato
+Dataset taken from Kaggle. Link - https://www.kaggle.com/noulam/tomato.
+
+### Train Image Count
+![](Images/train_count.png)
+
+### Test Image Count
+![](Images/test_count.png)
