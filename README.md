@@ -16,8 +16,8 @@ A total of 4585 images were taken for testing.
 ![](Images/model.PNG)
 
 ### Training
-A validation split 20% was used. The model was trained on 14676 images and validated on 3669 images for 75 epochs.
-The training accuracy was 98.63% whike that of validation was 95.48%.
+A validation split 20% was used. The model was trained on 14676 images and validated on 3669 images for 75 epochs (50 epochs will do just fine).
+The training accuracy was 98.63% while that of validation was 95.48%.
 
 ![](Images/acc.png)
 ![](Images/loss.png)
