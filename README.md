@@ -25,4 +25,4 @@ The training accuracy was 98.63% whike that of alidation was 95.48%.
 ### Testing
 Testing of the model was done on 4585 images. The accuracy was found to be 95.42%.
 
-![](Images/C M.PNG)
+![](Images/CM.PNG)
